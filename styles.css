@@ -1,1 +1,17 @@
+body { color: #808080;
+background-color: #fffff0 }
 
+h1 { font-size: 35px }
+
+p { font-size: 16px;
+color: #00008B;
+background-color: #E6E6FA }
+
+ol.education { list-style-type: upper-alpha }
+ul.skills { list-style-type: square }
+
+div.profile_image {
+	height: 200px;
+	width: 200px;
+	border-width: 2px;
+	border-style: dotted; }

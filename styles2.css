@@ -24,7 +24,8 @@
 
 #profile_image {
 	width: 200;
-	border-width: 2px;
+	height: 200;
+	border-width: 2;
 	border-style: dotted }
 
 #skills { 

@@ -1,49 +1,142 @@
 body {
 	font-family: Times New Roman;
-	margin: 20px }
-	
-.header {
-	background-color: #006666;
-	padding: 10px;
-	margin: 10px; }
+	margin-left: 100px;
+	margin-right: 60px;
+	background-color: #f8f2ed }
+
+h1 {
+	font-size: 40px }
+
+h3 {
+	font-size: 20px }
 
 .nav {
 	font-size: 20px;
-	background-color: #009999;
-	padding: 10px;
-	margin: 10px; }
+	background-color: #ddbfa2;
+	padding:  15px 15px 15px 40px;
+	margin: 10px;
+	clear: right }
 
 .section-article {
-	background-color: #00cccc;
+	background-color: #f1e5da;
 	clear: right;
-	width: 50%;
+	width: 45%;
 	position: absolute;
 	padding: 10px;
 	margin: 10px; }
 
 .aside {
-	background-color: #00ffff;
-	float: right;
-	width: 40%;
-	height: 50%;
-	padding: 10px;
-	margin: 10px; }
-
-.profile_image {
-	width: 200px;
-	height: 258px;
-	border-width: 2px;
-	border-style: dotted }
-
-.skills { 
-	list-style-type: square }
-
-.contact {
-	background-color: #b3ffff;
+	background-color: #f1e5da;
 	float: right;
 	width: 30%;
-	height: 30%;
+	height: 50%;
 	padding: 10px;
-	font-size: 20px;
+	margin: 10px }
+
+#profilepic {
+	float: right;
+	margin: 10px 40px 10px 10px }
+
+#contact_cv {
+	background-color: #ddbfa2;
+	float: right;
+	width: 20%;
+	height: 20%;
+	border-width: 2px;
+	border-style: solid;
+	padding: 20px;
+	font-size: 12px;
+	margin: 10px 70px 10px 10px;
+	clear: right }
+
+#contact_portfolio {
+	background-color: #ddbfa2;
+	float: right;
+	width: 20%;
+	height: 20%;
+	border-width: 2px;
+	border-style: solid;
+	padding: 30px;
+	font-size: 12px;
+	margin: 40px 60px 10px;
+	clear: right }
+
+#interests {
+	background-color: #ddbfa2;
 	margin: 10px;
-	clear: right; }
+	border-width: 2px;
+	border-style: solid;
+	padding: 30px }
+	
+#skills { 
+	background-color: #ddbfa2;
+	margin: 10px;
+	border-width: 2px;
+	border-style: solid;
+	padding: 30px }
+
+#about {
+	background-color: #ddbfa2;
+	margin: 10px;
+	border-width: 2px;
+	border-style: solid;
+	padding: 30px }
+
+#experience {
+	background-color: #ddbfa2;
+	margin: 10px;
+	border-width: 2px;
+	border-style: solid;
+	padding: 30px }
+
+#education {
+	background-color: #ddbfa2;
+	margin: 10px;
+	border-width: 2px;
+	border-style: solid;
+	padding: 30px }
+
+#madridpic {
+	float: right;
+	margin: 20px;
+	border-style: none }
+
+#caminopic {
+	float: left;
+	margin: 20px;
+	border-style: none }
+
+#madridtext {
+	margin: 80px 10px 80px 25px;
+	border-style: none;
+	padding: 10px;
+	clear: left;
+	width: 35% }
+
+#caminotext {
+	margin: 90px 50px 10px 10px;
+	border-style: none;
+	padding: 10px;
+	float: right;
+	width: 40% }
+
+#projects {
+	background-color: #ddbfa2;
+	margin: 10px;
+	border-width: 2px;
+	border-style: solid;
+	padding: 30px }
+
+#headercv {
+	background-color: #ddbfa2;
+	padding: 20px 10px 15px 40px;
+	margin: 10px;
+	float: left;
+	width: 80%;
+	height: 160px }
+
+#headerportfolio {
+	background-color: #ddbfa2;
+	padding: 20px 10px 15px 40px;
+	margin: 10px;
+	height: 160px }

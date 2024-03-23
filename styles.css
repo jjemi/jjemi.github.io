@@ -10,6 +10,9 @@ h1 {
 h3 {
 	font-size: 20px }
 
+ol { 
+	line-height: 1.5 }
+
 .nav {
 	font-size: 20px;
 	background-color: #ddbfa2;
